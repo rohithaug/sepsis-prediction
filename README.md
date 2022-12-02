@@ -83,7 +83,7 @@ All appear as important features in the model
     * Train data shape after sequence generation:
 
 <p align="center">
-  <img src="images/2_dl_structured_shape.png">
+  <img src="images/2_dl_structured_shape.png" width="200" height="auto">
 </p>
 
 * Truncate data for 2nd dimension with [0.0] * len(3rd dimension) 
