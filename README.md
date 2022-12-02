@@ -11,10 +11,6 @@
 * [Krish Rewanth Sevuga Perumal](https://www.linkedin.com/in/krish-rewanth/)
 * Yotam Voskoboynik
 
-## Advisors <a name="advisors"></a>
-* [Michael Hogarth, MD](https://www.hogarth.org/)
-* [Shamim Nemati, PhD](https://www.nematilab.info/people/shamim/index.html)
-
 ### Introduction: <a name="intro"></a>
 Predict Sepsis based on time series data and radiology reports from the [MIMIC-IV chest X-ray database](https://physionet.org/content/mimic-cxr/2.0.0/)
 * Sepsis is an extreme immune response to an infection.
@@ -147,6 +143,6 @@ Confusion Matrix for LSTM Model:
 
 ## Thank you!
 
-I hope you found the project useful and interesting. This project was developed as part of the [MED 277 class](https://dbmi.ucsd.edu/education/courses/med277.html) offered at UCSD.
+I hope you found the project useful and interesting. This project was developed as part of the [MED 277 class](https://dbmi.ucsd.edu/education/courses/med277.html) offered by [Michael Hogarth, MD](https://www.hogarth.org/) and [Shamim Nemati, PhD](https://www.nematilab.info/people/shamim/index.html) at the University of California, San Diego.
 
 -- [Rohith S P](https://www.linkedin.com/in/rohithsp/)
