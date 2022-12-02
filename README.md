@@ -78,7 +78,7 @@ Features usually used for Sepsis Diagnosis
 
 All appear as important features in the model
 
-### Deep Learning with Structured Data <a name="#dl-structured"></a>
+### Deep Learning with Structured Data <a name="dl-structured"></a>
 
 * Feature Columns - All filtered features after cleaning NaN values and Patient ID, Time and Sepsis Labels
 * Sequence Generation for Data:
@@ -104,7 +104,7 @@ Confusion Matrix for LSTM Model:
   <img src="images/3_dl_structured_lstm_cm.png">
 </p>
 
-### Deep Learning with Structured and Text Data <a name="#dl-structured-text"></a>
+### Deep Learning with Structured and Text Data <a name="dl-structured-text"></a>
 
 * The previous model is appended with patient report (text data).
 * The text data is tokenized, cleaned (punctuation and stopwords removed) and then vectorized using pubmed word2vec (200D).
