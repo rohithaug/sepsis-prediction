@@ -9,7 +9,6 @@
 
 ## Collaborators <a name="collaborators"></a>
 * [Krish Rewanth Sevuga Perumal](https://www.linkedin.com/in/krish-rewanth/)
-* Yotam Voskoboynik
 
 ### Introduction: <a name="intro"></a>
 Predict Sepsis based on time series data and radiology reports from the [MIMIC-IV chest X-ray database](https://physionet.org/content/mimic-cxr/2.0.0/)
