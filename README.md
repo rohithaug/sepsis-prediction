@@ -25,7 +25,7 @@ In this project, we have considered 141 different features including Vital Featu
 **Basic Statistics of the Data Set:**
 
 | Dataset | Total Number of Patients | Total Number of Records | Patients with sepsis to without sepsis ratio
-| ------------- |:-------------:|:-------------:|
+| ------------- |:-------------:|:-------------:|:-------------:|
 | Training Set | 1,978 | 97,512 | 0.4684
 | Validation Set | 1,462 | 110,182 | 0.5308
 
@@ -102,6 +102,10 @@ The deep learning models were also trained on the combination of the structured 
 | Sensitivity | 0.7926 | 0.8258 | 0.8420 | 0.5924
 | Specificity | 0.8554 | 0.8596 | 0.8673 | 0.8694
 
+<p align="center">
+  <img src="images/2_model_accuracy_loss_plot.png">
+</p>
+
 ## Conclusion: <a name="conclusion"></a>
 We performed a predictive task of sepsis prediction using structured and unstructured data of patients admitted in ICU from the MIMIC-IV database. We used different data processing and feature engineering techniques to select the most relevant features for the model. We evaluated the sepsis prediction task using standard metrics such as Precision or Positive Predictive Value, Negative Predictive Value, Sensitivity, Specificity and Accuracy. We initially used a baseline model on the structured data and then used deep learning based neural network models namely convolutional neural network and long short-term memory to improve the performance. We also used the same models to train the structured data along with the vectorized clinical report text and achieved a better positive predictive value. The performance of the predictive task can be further improved by better engineering the features, tuning the hyperparameters of the deep learning models and by incorporating better modeling strategies.
 
@@ -112,6 +116,6 @@ We performed a predictive task of sepsis prediction using structured and unstruc
 
 ## Thank you!
 
-I hope you found the project useful and interesting. This project was developed as part of the [MED 277 class](https://dbmi.ucsd.edu/education/courses/med277.html) offered by [Michael Hogarth, MD](https://www.hogarth.org/) and [Shamim Nemati, PhD](https://www.nematilab.info/people/shamim/index.html) at the University of California, San Diego.
+I hope you found the project useful and interesting. This project was developed as part of the [MED 277 class](https://dbmi.ucsd.edu/education/courses/med277.html) offered by [Michael Hogarth, MD](https://www.hogarth.org/) and [Shamim Nemati, PhD](https://www.nematilab.info/people/shamim/index.html) at the University of California, San Diego. Find the copy of the complete report [here]([https://github.com/rohithaug/rating-category-prediction-google-local/blob/main/report.pdf](https://github.com/rohithaug/sepsis-prediction/blob/main/report.pdf)) for reference.
 
 -- [Rohith S P](https://www.linkedin.com/in/rohithsp/)
