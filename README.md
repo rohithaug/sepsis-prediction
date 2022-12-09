@@ -103,7 +103,7 @@ The deep learning models were also trained on the combination of the structured 
 | Specificity | 0.8554 | 0.8596 | 0.8673 | 0.8694
 
 <p align="center">
-  <img src="images/2_model_accuracy_loss_plot.png">
+  <img src="images/models_accuracy_and_loss_plot.png">
 </p>
 
 ## Conclusion: <a name="conclusion"></a>
