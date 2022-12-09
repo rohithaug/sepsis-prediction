@@ -35,7 +35,7 @@ In this project, we have considered 141 different features including Vital Featu
 The train and validation set were used to train and test a random forest logistic regression model on the records of all the patients concatenated into a single dataframe. Different metrics such as Accuracy, Positive Predictive Value (PPV), Negative Predictive Value (NPV), Sensitivity and Specificity were used to evaluate the model’s performance. We also selected the relevant features by using the feature importance metrics provided by the random forest classifier library and retrained the model with only the important features. The selected features and their importance value to the model are shown in the below figure. Interestingly, the list of important features had the most relevant features used for sepsis prediction such as Body Temperature, Heart Rate, Respiratory Rate and Leukocyte Count. 
 
 <p align="center">
-  <img src="images/1_important_features.png">
+  <img src="images/important_features.png">
 </p>
 
 Though the baseline model would give a better PPV than the previous model, this will not be good enough for predicting sepsis labels, and hence we have to employ advanced neural networks based deep learning models namely a Sequential Convolutional Neural Network (CNN) and a Long Short-Term Memory (LSTM) model to get a better precision value on the predictive task. The architecture of the models used is shown in the below table.
