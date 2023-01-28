@@ -116,6 +116,6 @@ We performed a predictive task of sepsis prediction using structured and unstruc
 
 ## Thank you!
 
-I hope you found the project useful and interesting. This project was developed as part of the [MED 277 class](https://dbmi.ucsd.edu/education/courses/med277.html) offered by [Michael Hogarth, MD](https://www.hogarth.org/) and [Shamim Nemati, PhD](https://www.nematilab.info/people/shamim/index.html) at the University of California, San Diego. Find the copy of the complete report [here](https://github.com/rohithaug/rating-category-prediction-google-local/blob/main/report.pdf](https://github.com/rohithaug/sepsis-prediction/blob/main/report.pdf) for reference.
+I hope you found the project useful and interesting. This project was developed as part of the [MED 277 class](https://dbmi.ucsd.edu/education/courses/med277.html) offered by [Michael Hogarth, MD](https://www.hogarth.org/) and [Shamim Nemati, PhD](https://www.nematilab.info/people/shamim/index.html) at the University of California, San Diego. Find the copy of the complete report [here](https://github.com/rohithaug/sepsis-prediction/blob/main/report.pdf) for reference.
 
 -- [Rohith S P](https://www.linkedin.com/in/rohithsp/)
